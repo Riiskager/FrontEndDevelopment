@@ -4,12 +4,27 @@
 }
 h1{
     color: brown;
+    margin-top: 50px;
+}
+
+#fuck{
+    display: block;
+    justify-items: center;
+
+}
+.navn{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
 }
 body{
     background-color: beige;
+    display: block;
+    justify-content: center;
+    height: 100vh;
+}
+
+h3{
     display: flex;
     justify-content: center;
-    align-items: center;
-    /*outline: 2px solid black;*/
-    height: 98vh;
 }
